@@ -7,5 +7,6 @@ Noticed an error or have an idea how to improve the course? Please create an iss
 
 ## License
 The course is licensed under [CC-BY-4.0](https://github.com/ntaranov/gitlab-kubernetes-text/blob/master/LICENSE) (c) Nick Taranov
-modified anonimnor to test test.
+AND THEN modified anonimnor to test test. MOD1
+
 # gitlab-kuber
